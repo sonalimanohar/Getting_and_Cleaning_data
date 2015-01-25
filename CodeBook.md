@@ -1,6 +1,6 @@
 The tidy dataset included in this project contains the following 68 elements:
 
-1 Subject_id
+1 Subject_id \s\s
 2 Activity_name
 3 tBodyAccmeanX
 4 tBodyAccmeanY
