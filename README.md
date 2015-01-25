@@ -20,4 +20,4 @@ The run_analysis.R file performs the following operations:
 	4	Appropriately labels the data set with descriptive variable names. This is done by transposing the rows from the features dataset to the columns in the x dataset. The column names are similar except that they do not contain () and -. 
 	5	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
+tidy_dataset.txt contains the data from Step #5. CodeBook.md will provide information on Variable names from tidy_dataset.
